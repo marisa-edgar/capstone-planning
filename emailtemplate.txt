@@ -1,0 +1,12 @@
+Good Afternoon [ Name of Org ],
+
+My name is Marisa, and I am reaching out to you with an exciting proposal! I am a student software developer and a community organizer attempting to sow the seeds of what could one day be a nationwide network of organizations committed to improving the wretched conditions of the working class here in the U.S. and in those nations harmed by its imperialist conquest of the Global South. 
+
+As a student developer my final project is expected to be highly polished, and I hope to use this concept as my CapStone. My project is a prototype of a new kind of app that I am referring to as a Community Media Application, rather than simply a social media app. This App will feature Org accounts that can post and manage their content from an end to end encrypted server, as well as user accounts that can interact with the Orgs in public and private messaging. It will look a little bit like Instagram but much more secure. The prototype needs a few organizations to volunteer some information about their org, a few pictures, and maybe even a few draft posts so that I can use the information as the foundation of my prototype. The prototype is called Portland Solidarity In Action, and you can visit my newly minted Instagram account to get updates on the progress. 
+
+The prototype will be focused on Portland based Orgs like yours, but I hope to build a network of open source developers and launch it as a nationwide app within a year or so. This could revolutionize the way workers, the unhoused, and other marginalized individuals interact with the community organizations that aim to serve them. 
+
+A few things about the prototype:
+All of your information will be stored securely on my device and only shared with members of my school when I share the project. 
+After capstones, the prototype will not be launched without the full consent or withdrawal of the Orgs involved with the prototype. 
+The Prototype would be a web based version of what would ultimately be a Mobile App. 
