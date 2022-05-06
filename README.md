@@ -7,5 +7,7 @@
 * 12:00: begin lunch
 * 1:15: back from lunch
 * 2:20: finish contacting orgs
+* 3:05: researching potentially switching to python with no API
+
 
 

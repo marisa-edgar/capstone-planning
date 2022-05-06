@@ -1,5 +1,5 @@
-list of orgs to email
-email orgs
-look for social media style tutorials
-create test org and seed in api
-begin creating UI
+list of orgs to email - done
+email orgs - done 
+look for social media style tutorials - 
+create test org and seed in api - 
+begin creating UI - 
