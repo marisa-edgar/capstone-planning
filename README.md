@@ -9,6 +9,7 @@
 * 2:20: finish contacting orgs
 * 3:05: researching potentially switching to python with no API
 * 3:58: watching videos on Python for todo list applications and social media
+* 4:46: begin building python environment
 
 
 
